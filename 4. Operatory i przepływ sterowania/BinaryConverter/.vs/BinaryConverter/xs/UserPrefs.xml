@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{C18C7AFC-3449-4054-B5A0-8BA82C079359}|Default">
+  <MonoDevelop.Ide.ItemProperties.BinaryConverter PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BinaryConverter/Program.cs">
+    <Files>
+      <File FileName="BinaryConverter/Program.cs" Line="19" Column="36" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BinaryConverter" expanded="True">
+            <Node name="BinaryConverter" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

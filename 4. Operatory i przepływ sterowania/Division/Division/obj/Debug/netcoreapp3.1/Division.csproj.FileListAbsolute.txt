@@ -1,0 +1,11 @@
+/Users/ppoz21/Desktop/C#/4. Operatory i przepływ sterowania/Division/Division/bin/Debug/netcoreapp3.1/Division
+/Users/ppoz21/Desktop/C#/4. Operatory i przepływ sterowania/Division/Division/bin/Debug/netcoreapp3.1/Division.deps.json
+/Users/ppoz21/Desktop/C#/4. Operatory i przepływ sterowania/Division/Division/bin/Debug/netcoreapp3.1/Division.runtimeconfig.json
+/Users/ppoz21/Desktop/C#/4. Operatory i przepływ sterowania/Division/Division/bin/Debug/netcoreapp3.1/Division.runtimeconfig.dev.json
+/Users/ppoz21/Desktop/C#/4. Operatory i przepływ sterowania/Division/Division/bin/Debug/netcoreapp3.1/Division.dll
+/Users/ppoz21/Desktop/C#/4. Operatory i przepływ sterowania/Division/Division/bin/Debug/netcoreapp3.1/Division.pdb
+/Users/ppoz21/Desktop/C#/4. Operatory i przepływ sterowania/Division/Division/obj/Debug/netcoreapp3.1/Division.csprojAssemblyReference.cache
+/Users/ppoz21/Desktop/C#/4. Operatory i przepływ sterowania/Division/Division/obj/Debug/netcoreapp3.1/Division.AssemblyInfoInputs.cache
+/Users/ppoz21/Desktop/C#/4. Operatory i przepływ sterowania/Division/Division/obj/Debug/netcoreapp3.1/Division.AssemblyInfo.cs
+/Users/ppoz21/Desktop/C#/4. Operatory i przepływ sterowania/Division/Division/obj/Debug/netcoreapp3.1/Division.dll
+/Users/ppoz21/Desktop/C#/4. Operatory i przepływ sterowania/Division/Division/obj/Debug/netcoreapp3.1/Division.pdb

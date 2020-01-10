@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{F0793787-FD4D-410D-A68B-4B37783092E0}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CircleAreaCalculator/Program.cs">
+    <Files>
+      <File FileName="CircleAreaCalculator/Program.cs" Line="18" Column="38" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CircleAreaCalculator" expanded="True">
+            <Node name="CircleAreaCalculator" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.CircleAreaCalculator PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

@@ -1,0 +1,11 @@
+/Users/ppoz21/Desktop/C#/4. Operatory i przepływ sterowania/CircleAreaCalculator/CircleAreaCalculator/obj/Debug/netcoreapp3.1/CircleAreaCalculator.csprojAssemblyReference.cache
+/Users/ppoz21/Desktop/C#/4. Operatory i przepływ sterowania/CircleAreaCalculator/CircleAreaCalculator/obj/Debug/netcoreapp3.1/CircleAreaCalculator.AssemblyInfoInputs.cache
+/Users/ppoz21/Desktop/C#/4. Operatory i przepływ sterowania/CircleAreaCalculator/CircleAreaCalculator/obj/Debug/netcoreapp3.1/CircleAreaCalculator.AssemblyInfo.cs
+/Users/ppoz21/Desktop/C#/4. Operatory i przepływ sterowania/CircleAreaCalculator/CircleAreaCalculator/bin/Debug/netcoreapp3.1/CircleAreaCalculator
+/Users/ppoz21/Desktop/C#/4. Operatory i przepływ sterowania/CircleAreaCalculator/CircleAreaCalculator/bin/Debug/netcoreapp3.1/CircleAreaCalculator.deps.json
+/Users/ppoz21/Desktop/C#/4. Operatory i przepływ sterowania/CircleAreaCalculator/CircleAreaCalculator/bin/Debug/netcoreapp3.1/CircleAreaCalculator.runtimeconfig.json
+/Users/ppoz21/Desktop/C#/4. Operatory i przepływ sterowania/CircleAreaCalculator/CircleAreaCalculator/bin/Debug/netcoreapp3.1/CircleAreaCalculator.runtimeconfig.dev.json
+/Users/ppoz21/Desktop/C#/4. Operatory i przepływ sterowania/CircleAreaCalculator/CircleAreaCalculator/bin/Debug/netcoreapp3.1/CircleAreaCalculator.dll
+/Users/ppoz21/Desktop/C#/4. Operatory i przepływ sterowania/CircleAreaCalculator/CircleAreaCalculator/bin/Debug/netcoreapp3.1/CircleAreaCalculator.pdb
+/Users/ppoz21/Desktop/C#/4. Operatory i przepływ sterowania/CircleAreaCalculator/CircleAreaCalculator/obj/Debug/netcoreapp3.1/CircleAreaCalculator.dll
+/Users/ppoz21/Desktop/C#/4. Operatory i przepływ sterowania/CircleAreaCalculator/CircleAreaCalculator/obj/Debug/netcoreapp3.1/CircleAreaCalculator.pdb

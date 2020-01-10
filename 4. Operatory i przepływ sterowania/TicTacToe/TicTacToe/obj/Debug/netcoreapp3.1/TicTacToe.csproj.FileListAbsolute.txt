@@ -1,0 +1,11 @@
+/Users/ppoz21/Desktop/C#/4. Operatory i przepływ sterowania/TicTacToe/TicTacToe/bin/Debug/netcoreapp3.1/TicTacToe
+/Users/ppoz21/Desktop/C#/4. Operatory i przepływ sterowania/TicTacToe/TicTacToe/bin/Debug/netcoreapp3.1/TicTacToe.deps.json
+/Users/ppoz21/Desktop/C#/4. Operatory i przepływ sterowania/TicTacToe/TicTacToe/bin/Debug/netcoreapp3.1/TicTacToe.runtimeconfig.json
+/Users/ppoz21/Desktop/C#/4. Operatory i przepływ sterowania/TicTacToe/TicTacToe/bin/Debug/netcoreapp3.1/TicTacToe.runtimeconfig.dev.json
+/Users/ppoz21/Desktop/C#/4. Operatory i przepływ sterowania/TicTacToe/TicTacToe/bin/Debug/netcoreapp3.1/TicTacToe.dll
+/Users/ppoz21/Desktop/C#/4. Operatory i przepływ sterowania/TicTacToe/TicTacToe/bin/Debug/netcoreapp3.1/TicTacToe.pdb
+/Users/ppoz21/Desktop/C#/4. Operatory i przepływ sterowania/TicTacToe/TicTacToe/obj/Debug/netcoreapp3.1/TicTacToe.csprojAssemblyReference.cache
+/Users/ppoz21/Desktop/C#/4. Operatory i przepływ sterowania/TicTacToe/TicTacToe/obj/Debug/netcoreapp3.1/TicTacToe.AssemblyInfoInputs.cache
+/Users/ppoz21/Desktop/C#/4. Operatory i przepływ sterowania/TicTacToe/TicTacToe/obj/Debug/netcoreapp3.1/TicTacToe.AssemblyInfo.cs
+/Users/ppoz21/Desktop/C#/4. Operatory i przepływ sterowania/TicTacToe/TicTacToe/obj/Debug/netcoreapp3.1/TicTacToe.dll
+/Users/ppoz21/Desktop/C#/4. Operatory i przepływ sterowania/TicTacToe/TicTacToe/obj/Debug/netcoreapp3.1/TicTacToe.pdb
