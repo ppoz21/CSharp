@@ -1,0 +1,11 @@
+/Users/ppoz21/Desktop/C#/1. Wprowadzenie do języka C#/HelloWorld/bin/Debug/netcoreapp3.0/HelloWorld
+/Users/ppoz21/Desktop/C#/1. Wprowadzenie do języka C#/HelloWorld/bin/Debug/netcoreapp3.0/HelloWorld.deps.json
+/Users/ppoz21/Desktop/C#/1. Wprowadzenie do języka C#/HelloWorld/bin/Debug/netcoreapp3.0/HelloWorld.runtimeconfig.json
+/Users/ppoz21/Desktop/C#/1. Wprowadzenie do języka C#/HelloWorld/bin/Debug/netcoreapp3.0/HelloWorld.runtimeconfig.dev.json
+/Users/ppoz21/Desktop/C#/1. Wprowadzenie do języka C#/HelloWorld/bin/Debug/netcoreapp3.0/HelloWorld.dll
+/Users/ppoz21/Desktop/C#/1. Wprowadzenie do języka C#/HelloWorld/bin/Debug/netcoreapp3.0/HelloWorld.pdb
+/Users/ppoz21/Desktop/C#/1. Wprowadzenie do języka C#/HelloWorld/obj/Debug/netcoreapp3.0/HelloWorld.csprojAssemblyReference.cache
+/Users/ppoz21/Desktop/C#/1. Wprowadzenie do języka C#/HelloWorld/obj/Debug/netcoreapp3.0/HelloWorld.AssemblyInfoInputs.cache
+/Users/ppoz21/Desktop/C#/1. Wprowadzenie do języka C#/HelloWorld/obj/Debug/netcoreapp3.0/HelloWorld.AssemblyInfo.cs
+/Users/ppoz21/Desktop/C#/1. Wprowadzenie do języka C#/HelloWorld/obj/Debug/netcoreapp3.0/HelloWorld.dll
+/Users/ppoz21/Desktop/C#/1. Wprowadzenie do języka C#/HelloWorld/obj/Debug/netcoreapp3.0/HelloWorld.pdb

@@ -1,0 +1,11 @@
+/Users/ppoz21/Desktop/C#/1. Wprowadzenie do języka C#/StormingTheCastle/miracleMax/bin/Debug/netcoreapp3.1/StormingTheCastle
+/Users/ppoz21/Desktop/C#/1. Wprowadzenie do języka C#/StormingTheCastle/miracleMax/bin/Debug/netcoreapp3.1/StormingTheCastle.deps.json
+/Users/ppoz21/Desktop/C#/1. Wprowadzenie do języka C#/StormingTheCastle/miracleMax/bin/Debug/netcoreapp3.1/StormingTheCastle.runtimeconfig.json
+/Users/ppoz21/Desktop/C#/1. Wprowadzenie do języka C#/StormingTheCastle/miracleMax/bin/Debug/netcoreapp3.1/StormingTheCastle.runtimeconfig.dev.json
+/Users/ppoz21/Desktop/C#/1. Wprowadzenie do języka C#/StormingTheCastle/miracleMax/bin/Debug/netcoreapp3.1/StormingTheCastle.dll
+/Users/ppoz21/Desktop/C#/1. Wprowadzenie do języka C#/StormingTheCastle/miracleMax/bin/Debug/netcoreapp3.1/StormingTheCastle.pdb
+/Users/ppoz21/Desktop/C#/1. Wprowadzenie do języka C#/StormingTheCastle/miracleMax/obj/Debug/netcoreapp3.1/StormingTheCastle.csprojAssemblyReference.cache
+/Users/ppoz21/Desktop/C#/1. Wprowadzenie do języka C#/StormingTheCastle/miracleMax/obj/Debug/netcoreapp3.1/StormingTheCastle.AssemblyInfoInputs.cache
+/Users/ppoz21/Desktop/C#/1. Wprowadzenie do języka C#/StormingTheCastle/miracleMax/obj/Debug/netcoreapp3.1/StormingTheCastle.AssemblyInfo.cs
+/Users/ppoz21/Desktop/C#/1. Wprowadzenie do języka C#/StormingTheCastle/miracleMax/obj/Debug/netcoreapp3.1/StormingTheCastle.dll
+/Users/ppoz21/Desktop/C#/1. Wprowadzenie do języka C#/StormingTheCastle/miracleMax/obj/Debug/netcoreapp3.1/StormingTheCastle.pdb

@@ -1,0 +1,11 @@
+/Users/ppoz21/Desktop/C#/1. Wprowadzenie do języka C#/ProgrammingLanguages/ProgrammingLanguages/bin/Debug/netcoreapp3.1/ProgrammingLanguages
+/Users/ppoz21/Desktop/C#/1. Wprowadzenie do języka C#/ProgrammingLanguages/ProgrammingLanguages/bin/Debug/netcoreapp3.1/ProgrammingLanguages.deps.json
+/Users/ppoz21/Desktop/C#/1. Wprowadzenie do języka C#/ProgrammingLanguages/ProgrammingLanguages/bin/Debug/netcoreapp3.1/ProgrammingLanguages.runtimeconfig.json
+/Users/ppoz21/Desktop/C#/1. Wprowadzenie do języka C#/ProgrammingLanguages/ProgrammingLanguages/bin/Debug/netcoreapp3.1/ProgrammingLanguages.runtimeconfig.dev.json
+/Users/ppoz21/Desktop/C#/1. Wprowadzenie do języka C#/ProgrammingLanguages/ProgrammingLanguages/bin/Debug/netcoreapp3.1/ProgrammingLanguages.dll
+/Users/ppoz21/Desktop/C#/1. Wprowadzenie do języka C#/ProgrammingLanguages/ProgrammingLanguages/bin/Debug/netcoreapp3.1/ProgrammingLanguages.pdb
+/Users/ppoz21/Desktop/C#/1. Wprowadzenie do języka C#/ProgrammingLanguages/ProgrammingLanguages/obj/Debug/netcoreapp3.1/ProgrammingLanguages.csprojAssemblyReference.cache
+/Users/ppoz21/Desktop/C#/1. Wprowadzenie do języka C#/ProgrammingLanguages/ProgrammingLanguages/obj/Debug/netcoreapp3.1/ProgrammingLanguages.AssemblyInfoInputs.cache
+/Users/ppoz21/Desktop/C#/1. Wprowadzenie do języka C#/ProgrammingLanguages/ProgrammingLanguages/obj/Debug/netcoreapp3.1/ProgrammingLanguages.AssemblyInfo.cs
+/Users/ppoz21/Desktop/C#/1. Wprowadzenie do języka C#/ProgrammingLanguages/ProgrammingLanguages/obj/Debug/netcoreapp3.1/ProgrammingLanguages.dll
+/Users/ppoz21/Desktop/C#/1. Wprowadzenie do języka C#/ProgrammingLanguages/ProgrammingLanguages/obj/Debug/netcoreapp3.1/ProgrammingLanguages.pdb

@@ -1,0 +1,11 @@
+/Users/ppoz21/Desktop/C#/1. Wprowadzenie do języka C#/miracleMax/miracleMax/bin/Debug/netcoreapp3.1/miracleMax
+/Users/ppoz21/Desktop/C#/1. Wprowadzenie do języka C#/miracleMax/miracleMax/bin/Debug/netcoreapp3.1/miracleMax.deps.json
+/Users/ppoz21/Desktop/C#/1. Wprowadzenie do języka C#/miracleMax/miracleMax/bin/Debug/netcoreapp3.1/miracleMax.runtimeconfig.json
+/Users/ppoz21/Desktop/C#/1. Wprowadzenie do języka C#/miracleMax/miracleMax/bin/Debug/netcoreapp3.1/miracleMax.runtimeconfig.dev.json
+/Users/ppoz21/Desktop/C#/1. Wprowadzenie do języka C#/miracleMax/miracleMax/bin/Debug/netcoreapp3.1/miracleMax.dll
+/Users/ppoz21/Desktop/C#/1. Wprowadzenie do języka C#/miracleMax/miracleMax/bin/Debug/netcoreapp3.1/miracleMax.pdb
+/Users/ppoz21/Desktop/C#/1. Wprowadzenie do języka C#/miracleMax/miracleMax/obj/Debug/netcoreapp3.1/miracleMax.csprojAssemblyReference.cache
+/Users/ppoz21/Desktop/C#/1. Wprowadzenie do języka C#/miracleMax/miracleMax/obj/Debug/netcoreapp3.1/miracleMax.AssemblyInfoInputs.cache
+/Users/ppoz21/Desktop/C#/1. Wprowadzenie do języka C#/miracleMax/miracleMax/obj/Debug/netcoreapp3.1/miracleMax.AssemblyInfo.cs
+/Users/ppoz21/Desktop/C#/1. Wprowadzenie do języka C#/miracleMax/miracleMax/obj/Debug/netcoreapp3.1/miracleMax.dll
+/Users/ppoz21/Desktop/C#/1. Wprowadzenie do języka C#/miracleMax/miracleMax/obj/Debug/netcoreapp3.1/miracleMax.pdb

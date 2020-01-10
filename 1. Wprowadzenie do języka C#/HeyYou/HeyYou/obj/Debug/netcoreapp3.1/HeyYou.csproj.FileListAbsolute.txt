@@ -1,0 +1,11 @@
+/Users/ppoz21/Desktop/C#/1. Wprowadzenie do języka C#/HeyYou/HeyYou/bin/Debug/netcoreapp3.1/HeyYou
+/Users/ppoz21/Desktop/C#/1. Wprowadzenie do języka C#/HeyYou/HeyYou/bin/Debug/netcoreapp3.1/HeyYou.deps.json
+/Users/ppoz21/Desktop/C#/1. Wprowadzenie do języka C#/HeyYou/HeyYou/bin/Debug/netcoreapp3.1/HeyYou.runtimeconfig.json
+/Users/ppoz21/Desktop/C#/1. Wprowadzenie do języka C#/HeyYou/HeyYou/bin/Debug/netcoreapp3.1/HeyYou.runtimeconfig.dev.json
+/Users/ppoz21/Desktop/C#/1. Wprowadzenie do języka C#/HeyYou/HeyYou/bin/Debug/netcoreapp3.1/HeyYou.dll
+/Users/ppoz21/Desktop/C#/1. Wprowadzenie do języka C#/HeyYou/HeyYou/bin/Debug/netcoreapp3.1/HeyYou.pdb
+/Users/ppoz21/Desktop/C#/1. Wprowadzenie do języka C#/HeyYou/HeyYou/obj/Debug/netcoreapp3.1/HeyYou.csprojAssemblyReference.cache
+/Users/ppoz21/Desktop/C#/1. Wprowadzenie do języka C#/HeyYou/HeyYou/obj/Debug/netcoreapp3.1/HeyYou.AssemblyInfoInputs.cache
+/Users/ppoz21/Desktop/C#/1. Wprowadzenie do języka C#/HeyYou/HeyYou/obj/Debug/netcoreapp3.1/HeyYou.AssemblyInfo.cs
+/Users/ppoz21/Desktop/C#/1. Wprowadzenie do języka C#/HeyYou/HeyYou/obj/Debug/netcoreapp3.1/HeyYou.dll
+/Users/ppoz21/Desktop/C#/1. Wprowadzenie do języka C#/HeyYou/HeyYou/obj/Debug/netcoreapp3.1/HeyYou.pdb

@@ -1,0 +1,11 @@
+/Users/ppoz21/Desktop/C#/3. Jeszcze o typach danych/Palindrome/Palindrome/bin/Debug/netcoreapp3.1/Palindrome
+/Users/ppoz21/Desktop/C#/3. Jeszcze o typach danych/Palindrome/Palindrome/bin/Debug/netcoreapp3.1/Palindrome.deps.json
+/Users/ppoz21/Desktop/C#/3. Jeszcze o typach danych/Palindrome/Palindrome/bin/Debug/netcoreapp3.1/Palindrome.runtimeconfig.json
+/Users/ppoz21/Desktop/C#/3. Jeszcze o typach danych/Palindrome/Palindrome/bin/Debug/netcoreapp3.1/Palindrome.runtimeconfig.dev.json
+/Users/ppoz21/Desktop/C#/3. Jeszcze o typach danych/Palindrome/Palindrome/bin/Debug/netcoreapp3.1/Palindrome.dll
+/Users/ppoz21/Desktop/C#/3. Jeszcze o typach danych/Palindrome/Palindrome/bin/Debug/netcoreapp3.1/Palindrome.pdb
+/Users/ppoz21/Desktop/C#/3. Jeszcze o typach danych/Palindrome/Palindrome/obj/Debug/netcoreapp3.1/Palindrome.csprojAssemblyReference.cache
+/Users/ppoz21/Desktop/C#/3. Jeszcze o typach danych/Palindrome/Palindrome/obj/Debug/netcoreapp3.1/Palindrome.AssemblyInfoInputs.cache
+/Users/ppoz21/Desktop/C#/3. Jeszcze o typach danych/Palindrome/Palindrome/obj/Debug/netcoreapp3.1/Palindrome.AssemblyInfo.cs
+/Users/ppoz21/Desktop/C#/3. Jeszcze o typach danych/Palindrome/Palindrome/obj/Debug/netcoreapp3.1/Palindrome.dll
+/Users/ppoz21/Desktop/C#/3. Jeszcze o typach danych/Palindrome/Palindrome/obj/Debug/netcoreapp3.1/Palindrome.pdb
