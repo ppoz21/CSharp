@@ -1,14 +1,13 @@
-﻿<Properties StartupConfiguration="{4BE65E17-9628-426C-9A90-215815443A40}|Default">
-  <MonoDevelop.Ide.ItemProperties.TicTacToe PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="TicTacToe/Program.cs">
+﻿<Properties StartupConfiguration="{1CAB09BE-3FC7-44C5-A3A4-37D3DB92F626}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Downloader/Program.cs">
     <Files>
-      <File FileName="TicTacToe/Program.cs" Line="10" Column="6" />
+      <File FileName="Downloader/Program.cs" Line="39" Column="23" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="TicTacToe" expanded="True">
-            <Node name="TicTacToe" expanded="True">
+          <Node name="Downloader" expanded="True">
+            <Node name="Downloader" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -17,6 +16,7 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Downloader PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />

@@ -1,14 +1,13 @@
-﻿<Properties StartupConfiguration="{4BE65E17-9628-426C-9A90-215815443A40}|Default">
-  <MonoDevelop.Ide.ItemProperties.TicTacToe PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="TicTacToe/Program.cs">
+﻿<Properties StartupConfiguration="{E28A4F2E-2CFE-4F7C-93D0-DE62178EE02B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ConvertToPhoneNumber/Program.cs">
     <Files>
-      <File FileName="TicTacToe/Program.cs" Line="10" Column="6" />
+      <File FileName="ConvertToPhoneNumber/Program.cs" Line="10" Column="27" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="TicTacToe" expanded="True">
-            <Node name="TicTacToe" expanded="True">
+          <Node name="ConvertToPhoneNumber" expanded="True">
+            <Node name="ConvertToPhoneNumber" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -18,6 +17,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.ConvertToPhoneNumber PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

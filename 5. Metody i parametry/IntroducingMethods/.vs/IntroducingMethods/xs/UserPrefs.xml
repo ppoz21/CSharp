@@ -1,14 +1,14 @@
-﻿<Properties StartupConfiguration="{4BE65E17-9628-426C-9A90-215815443A40}|Default">
-  <MonoDevelop.Ide.ItemProperties.TicTacToe PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="TicTacToe/Program.cs">
+﻿<Properties StartupConfiguration="{A9C25E54-99AF-459A-A045-E51CBC2691A4}|Default">
+  <MonoDevelop.Ide.ItemProperties.IntroducingMethods PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="IntroducingMethods/Program.cs">
     <Files>
-      <File FileName="TicTacToe/Program.cs" Line="10" Column="6" />
+      <File FileName="IntroducingMethods/Program.cs" Line="8" Column="25" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="TicTacToe" expanded="True">
-            <Node name="TicTacToe" expanded="True">
+          <Node name="IntroducingMethods" expanded="True">
+            <Node name="IntroducingMethods" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
