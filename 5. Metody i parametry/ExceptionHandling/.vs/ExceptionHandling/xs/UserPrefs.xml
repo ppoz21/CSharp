@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="{DEFCE166-D574-4F53-B660-E4F2AACC1A51}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="ExceptionHandling/Program.cs">
     <Files>
-      <File FileName="ExceptionHandling/Program.cs" Line="5" Column="1" />
+      <File FileName="ExceptionHandling/Program.cs" Line="29" Column="43" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -15,7 +15,7 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.ExceptionHandling FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.ExceptionHandling PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

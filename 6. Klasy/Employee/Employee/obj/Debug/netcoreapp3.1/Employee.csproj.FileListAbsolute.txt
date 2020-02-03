@@ -1,0 +1,11 @@
+/Users/ppoz21/Desktop/C#/6. Klasy/Employee/Employee/bin/Debug/netcoreapp3.1/Employee
+/Users/ppoz21/Desktop/C#/6. Klasy/Employee/Employee/bin/Debug/netcoreapp3.1/Employee.deps.json
+/Users/ppoz21/Desktop/C#/6. Klasy/Employee/Employee/bin/Debug/netcoreapp3.1/Employee.runtimeconfig.json
+/Users/ppoz21/Desktop/C#/6. Klasy/Employee/Employee/bin/Debug/netcoreapp3.1/Employee.runtimeconfig.dev.json
+/Users/ppoz21/Desktop/C#/6. Klasy/Employee/Employee/bin/Debug/netcoreapp3.1/Employee.dll
+/Users/ppoz21/Desktop/C#/6. Klasy/Employee/Employee/bin/Debug/netcoreapp3.1/Employee.pdb
+/Users/ppoz21/Desktop/C#/6. Klasy/Employee/Employee/obj/Debug/netcoreapp3.1/Employee.csprojAssemblyReference.cache
+/Users/ppoz21/Desktop/C#/6. Klasy/Employee/Employee/obj/Debug/netcoreapp3.1/Employee.AssemblyInfoInputs.cache
+/Users/ppoz21/Desktop/C#/6. Klasy/Employee/Employee/obj/Debug/netcoreapp3.1/Employee.AssemblyInfo.cs
+/Users/ppoz21/Desktop/C#/6. Klasy/Employee/Employee/obj/Debug/netcoreapp3.1/Employee.dll
+/Users/ppoz21/Desktop/C#/6. Klasy/Employee/Employee/obj/Debug/netcoreapp3.1/Employee.pdb
