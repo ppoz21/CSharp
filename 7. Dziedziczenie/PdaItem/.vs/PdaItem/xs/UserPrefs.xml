@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{8F911AB5-B48B-4738-A668-9C0C8BB8551C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PdaItem/Contact.cs">
+    <Files>
+      <File FileName="PdaItem/Program.cs" Line="11" Column="35" />
+      <File FileName="PdaItem/PdaItem.cs" Line="11" Column="45" />
+      <File FileName="PdaItem/Contact.cs" Line="14" Column="1" />
+      <File FileName="PdaItem/Appointment.cs" Line="25" Column="45" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PdaItem" expanded="True">
+            <Node name="PdaItem" expanded="True">
+              <Node name="Contact.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.PdaItem PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

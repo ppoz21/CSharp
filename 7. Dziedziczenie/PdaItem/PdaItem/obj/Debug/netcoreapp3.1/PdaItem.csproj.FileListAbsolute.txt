@@ -1,0 +1,11 @@
+/Users/ppoz21/Desktop/C#/7. Dziedziczenie/PdaItem/PdaItem/obj/Debug/netcoreapp3.1/PdaItem.csprojAssemblyReference.cache
+/Users/ppoz21/Desktop/C#/7. Dziedziczenie/PdaItem/PdaItem/obj/Debug/netcoreapp3.1/PdaItem.AssemblyInfoInputs.cache
+/Users/ppoz21/Desktop/C#/7. Dziedziczenie/PdaItem/PdaItem/obj/Debug/netcoreapp3.1/PdaItem.AssemblyInfo.cs
+/Users/ppoz21/Desktop/C#/7. Dziedziczenie/PdaItem/PdaItem/bin/Debug/netcoreapp3.1/PdaItem
+/Users/ppoz21/Desktop/C#/7. Dziedziczenie/PdaItem/PdaItem/bin/Debug/netcoreapp3.1/PdaItem.deps.json
+/Users/ppoz21/Desktop/C#/7. Dziedziczenie/PdaItem/PdaItem/bin/Debug/netcoreapp3.1/PdaItem.runtimeconfig.json
+/Users/ppoz21/Desktop/C#/7. Dziedziczenie/PdaItem/PdaItem/bin/Debug/netcoreapp3.1/PdaItem.runtimeconfig.dev.json
+/Users/ppoz21/Desktop/C#/7. Dziedziczenie/PdaItem/PdaItem/bin/Debug/netcoreapp3.1/PdaItem.dll
+/Users/ppoz21/Desktop/C#/7. Dziedziczenie/PdaItem/PdaItem/bin/Debug/netcoreapp3.1/PdaItem.pdb
+/Users/ppoz21/Desktop/C#/7. Dziedziczenie/PdaItem/PdaItem/obj/Debug/netcoreapp3.1/PdaItem.dll
+/Users/ppoz21/Desktop/C#/7. Dziedziczenie/PdaItem/PdaItem/obj/Debug/netcoreapp3.1/PdaItem.pdb

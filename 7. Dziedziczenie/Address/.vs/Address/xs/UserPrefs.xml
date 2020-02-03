@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{EADEC251-915E-4F11-950D-EDE7D65C3772}|Default">
+  <MonoDevelop.Ide.ItemProperties.Address FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Address/Program.cs">
+    <Files>
+      <File FileName="Address/Program.cs" Line="1" Column="1" />
+      <File FileName="Address/Address.cs" Line="18" Column="6" />
+      <File FileName="Address/InternationalAddress.cs" Line="11" Column="55" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Address" expanded="True">
+            <Node name="Address" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
