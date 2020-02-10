@@ -3,7 +3,7 @@
     <Files>
       <File FileName="PdaItem/Program.cs" Line="72" Column="2" />
       <File FileName="PdaItem/PdaItem.cs" />
-      <File FileName="PdaItem/Contact.cs" Line="7" Column="49" />
+      <File FileName="PdaItem/Contact.cs" Line="129" Column="1" />
       <File FileName="PdaItem/Appointment.cs" />
       <File FileName="PdaItem/IListable.cs" />
       <File FileName="PdaItem/Publication.cs" />
