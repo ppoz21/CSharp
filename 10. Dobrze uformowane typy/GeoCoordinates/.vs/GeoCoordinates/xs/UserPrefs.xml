@@ -1,0 +1,28 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="GeoCoordinates/Latitude.cs">
+    <Files>
+      <File FileName="GeoCoordinates/Class1.cs" Line="45" Column="6" />
+      <File FileName="GeoCoordinates/Coordinate.cs" Line="129" Column="6" />
+      <File FileName="GeoCoordinates/Longitude.cs" Line="54" Column="6" />
+      <File FileName="GeoCoordinates/Latitude.cs" Line="53" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GeoCoordinates" expanded="True">
+            <Node name="GeoCoordinates" expanded="True">
+              <Node name="Latitude.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.GeoCoordinates FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

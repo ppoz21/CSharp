@@ -1,0 +1,11 @@
+/Users/ppoz21/Desktop/C#/9. Metody bezpośrednie/Coordinate/Coordinate/bin/Debug/netcoreapp3.1/Coordinate
+/Users/ppoz21/Desktop/C#/9. Metody bezpośrednie/Coordinate/Coordinate/bin/Debug/netcoreapp3.1/Coordinate.deps.json
+/Users/ppoz21/Desktop/C#/9. Metody bezpośrednie/Coordinate/Coordinate/bin/Debug/netcoreapp3.1/Coordinate.runtimeconfig.json
+/Users/ppoz21/Desktop/C#/9. Metody bezpośrednie/Coordinate/Coordinate/bin/Debug/netcoreapp3.1/Coordinate.runtimeconfig.dev.json
+/Users/ppoz21/Desktop/C#/9. Metody bezpośrednie/Coordinate/Coordinate/bin/Debug/netcoreapp3.1/Coordinate.dll
+/Users/ppoz21/Desktop/C#/9. Metody bezpośrednie/Coordinate/Coordinate/bin/Debug/netcoreapp3.1/Coordinate.pdb
+/Users/ppoz21/Desktop/C#/9. Metody bezpośrednie/Coordinate/Coordinate/obj/Debug/netcoreapp3.1/Coordinate.csprojAssemblyReference.cache
+/Users/ppoz21/Desktop/C#/9. Metody bezpośrednie/Coordinate/Coordinate/obj/Debug/netcoreapp3.1/Coordinate.AssemblyInfoInputs.cache
+/Users/ppoz21/Desktop/C#/9. Metody bezpośrednie/Coordinate/Coordinate/obj/Debug/netcoreapp3.1/Coordinate.AssemblyInfo.cs
+/Users/ppoz21/Desktop/C#/9. Metody bezpośrednie/Coordinate/Coordinate/obj/Debug/netcoreapp3.1/Coordinate.dll
+/Users/ppoz21/Desktop/C#/9. Metody bezpośrednie/Coordinate/Coordinate/obj/Debug/netcoreapp3.1/Coordinate.pdb

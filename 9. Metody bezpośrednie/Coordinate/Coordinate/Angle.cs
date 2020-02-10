@@ -2,7 +2,7 @@
 namespace Coordinate
 {
     // Do deklarowania typów bezpośrednich służy słowo kluczowe struct.
-    struct Angle
+    public struct Angle
     {
         public Angle(int degrees)
             : this(degrees, default)
